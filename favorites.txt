@@ -1,2 +1,8 @@
+Foods:
 Dosa
 Briyani
+
+Movies:
+James Bond
+Vaaranam Aayiram
+Ayan
